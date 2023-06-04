@@ -1,6 +1,8 @@
 # UserNet-ISH
 🔎Search for social media accounts by username (For ISH)🔎
 
+it's like Sherlock https://github.com/sherlock-project/sherlock but for ISH app
+
 ![Logo](https://i.postimg.cc/wvWVVKR1/Onionkey.png)
 
 ## Installation
