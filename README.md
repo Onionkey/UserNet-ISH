@@ -1,8 +1,12 @@
 # UserNet-ISH
 🔎Search for social media accounts by username (For ISH)🔎
 
+![Logo](https://i.postimg.cc/wvWVVKR1/Onionkey.png)
 
-1. git clone https://github.com/Onionkey/UserNet-ISH.git
-2. cd UserNet-ISH
-3. pip3 install requests
-4. python3 main.py johnsmith
+## Installation
+```bash
+  git clone https://github.com/Onionkey/UserNet-ISH.git
+  cd UserNet-ISH
+  pip3 install requests
+  python3 main.py johnsmith
+```
